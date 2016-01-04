@@ -1,14 +1,16 @@
-# stream-handbook
+# Потоки в node.js. Руководство. 
 
-This document covers the basics of how to write [node.js](http://nodejs.org/)
-programs with [streams](http://nodejs.org/docs/latest/api/stream.html).     
-You also could read a **[chinese edition](https://github.com/jabez128/stream-handbook)**
+Это руководство описывает как писать программы на [node.js](http://nodejs.org/)
+используя [streams](http://nodejs.org/docs/latest/api/stream.html).     
+**[chinese edition](https://github.com/jabez128/stream-handbook)**
+**[english edition](https://github.com/substack/stream-handbook)**
+
 
 [![cc-by-3.0](http://i.creativecommons.org/l/by/3.0/80x15.png)](http://creativecommons.org/licenses/by/3.0/)
 
 # node packaged manuscript
 
-You can install this handbook with npm. Just do:
+Руковосдство можно установить на свой компьютер:
 
 ```
 npm install -g stream-handbook
